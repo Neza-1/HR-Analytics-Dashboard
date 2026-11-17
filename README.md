@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyses employee attrition and workforce demographics, helping HR teams see who is leaving, from where, and what patterns sit behind it.
 
-![HR Nalytics Dashboard](HR_Analytics_Dashboard.jpeg)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.jpeg)
 
 ## Project Overview
 
