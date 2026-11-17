@@ -78,7 +78,9 @@ The dataset contains employee records including department, job role, age, gende
 
 ## Author
 
-**Vincent Munyaneza**
-Data Scientist | MEL Specialist | MSc Applied Quantitative Economics (University of Rwanda)
-[LinkedIn](https://www.linkedin.com/in/vincent-munyaneza-56390926a/)
-
+**Vincent MUNYANEZA** <br>
+Data Scientist | MEL Specialist <br>
+MSc Applied Quantitative Economics (University of Rwanda) <br>
+[LinkedIn](https://www.linkedin.com/in/vincent-munyaneza-56390926a/) <br>
+Call/ Whatsapp: +250782467855/ 0728428416 <br>
+Email: munyaneza20100@gmail.com <br>
