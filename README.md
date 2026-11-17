@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyses employee attrition and workforce demographics, helping HR teams see who is leaving, from where, and what patterns sit behind it.
 
-![HR Analytics Dashboard](docs/dashboard.jpeg)
+![HR Analytics Dashboard](HR Analytics Dashboard.jpeg)
 
 ## Project Overview
 
@@ -82,6 +82,3 @@ The dataset contains employee records including department, job role, age, gende
 Data Scientist | MEL Specialist | MSc Applied Quantitative Economics (University of Rwanda)
 [LinkedIn](https://www.linkedin.com/in/vincent-munyaneza-56390926a/)
 
-## License
-
-This project is released under the [MIT License](LICENSE).
