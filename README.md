@@ -76,7 +76,7 @@ hr-analytics-dashboard/
 
 The dataset contains employee records including department, job role, age, gender, education level and field, job satisfaction rating and attrition status. No personally identifiable information is included.
 
-## Author
+
 
 **Vincent MUNYANEZA** <br>
 Data Scientist | MEL Specialist <br>
